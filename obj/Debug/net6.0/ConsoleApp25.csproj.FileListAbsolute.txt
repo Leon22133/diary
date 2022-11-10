@@ -1,0 +1,15 @@
+D:\ConsoleApp25\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.exe
+D:\ConsoleApp25\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.deps.json
+D:\ConsoleApp25\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.runtimeconfig.json
+D:\ConsoleApp25\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.dll
+D:\ConsoleApp25\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.pdb
+D:\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.csproj.AssemblyReference.cache
+D:\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.AssemblyInfoInputs.cache
+D:\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.AssemblyInfo.cs
+D:\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.csproj.CoreCompileInputs.cache
+D:\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.dll
+D:\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\refint\ConsoleApp25.dll
+D:\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.pdb
+D:\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.genruntimeconfig.cache
+D:\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ref\ConsoleApp25.dll
